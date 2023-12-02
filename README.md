@@ -1,5 +1,3 @@
-Sure, let's dive deeper into the architecture of the PLNG Stack deployed using AWS CloudFormation.
-
 ### Architecture Overview
 
 The PLNG Stack architecture is designed to provide a comprehensive solution for log management and visualization, leveraging several key AWS services and open-source tools.
