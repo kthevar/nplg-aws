@@ -68,16 +68,7 @@ The PLNG Stack architecture is designed to provide a comprehensive solution for 
 6. **Outputs:**
    - Outputs from the CloudFormation stack include essential information such as instance details, public IP address, Loki S3 bucket, Loki and Grafana endpoints, and the DNS name of the EC2 instance.
   
- 7. **Usage: **
-Certainly! Here's a simple README template for GitHub:
-
----
-
 # PLNG Stack Deployment on AWS with CloudFormation
-
-## Overview
-
-This repository contains an AWS CloudFormation template for deploying the PLNG Stack (Promtail, Nginx, Loki, Grafana) on an Amazon Linux 2 instance. The stack includes S3 storage for Loki logs, SSL/TLS termination, and enhanced security measures.
 
 ## Quick Start
 
@@ -132,7 +123,6 @@ Feel free to contribute, open issues, or provide feedback!
 ---
 
 Adjust the placeholders like `yourusername`, `your-s3-bucket-name`, and others according to your preferences. Additionally, make sure to include any additional instructions or information that might be relevant for users.
- 8. 
 
 ### Benefits
 
